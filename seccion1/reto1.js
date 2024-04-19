@@ -2,7 +2,6 @@
 const destino = prompt("donde deseas viajar");
 let dias = prompt("cuantos dias dura tu viaje");
 let presupuesto = prompt("indique su presupuesto inicial");
-let souvenir = []
 
 
 function costeDelviaje (presupuestoT,diasV){
